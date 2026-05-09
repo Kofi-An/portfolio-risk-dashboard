@@ -175,4 +175,4 @@ def get_portfolio_summary(tickers: list,
         "mc":         mc,
         "period":     period,
         "port_value": portfolio_value
-    }
+    } 
