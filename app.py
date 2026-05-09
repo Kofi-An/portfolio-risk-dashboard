@@ -390,8 +390,8 @@ st.dataframe(asset_table, use_container_width=True, hide_index=True)
 # === FOOTER ===
 st.divider()
 st.markdown(
-    "Built by **Kofi-An** | Financial Data Scientist | "
+    "Built by **Kofi Anku** | Financial Data Scientist | "
     "[GitHub](https://github.com/Kofi-An) | "
-    "[LinkedIn](https://linkedin.com/in/your-handle) | "
+    "[LinkedIn](www.linkedin.com/in/wka7) | "
     "[Portfolio](https://kofi-an.github.io)"
 )
